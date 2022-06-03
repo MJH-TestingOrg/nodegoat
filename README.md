@@ -4,6 +4,14 @@ Being lightweight, fast, and scalable, Node.js is becoming a widely adopted plat
 
 ## Getting Started
 OWASP Top 10 for Node.js web applications:
+Consumer Key
+Sf18jV4v7pJWjJaK7GD6SKd1wPIgDCvZ
+Copy to clipboard
+
+Consumer Secret
+uETalBT1Ivam4td7
+Copy to clipboard
+
 
 ### Know it!
 [Tutorial Guide](http://nodegoat.herokuapp.com/tutorial) explaining how each of the OWASP Top 10 vulnerabilities can manifest in Node.js web apps and how to prevent it.
