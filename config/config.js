@@ -1,3 +1,6 @@
+//aws_access_key_id = AKIAISPIV5GVKGK3XZFQ
+//aws_secret_access_key = 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
+
 const _ = require("underscore");
 const path = require("path");
 const util = require('util')
