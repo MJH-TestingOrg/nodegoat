@@ -3,7 +3,9 @@
 Being lightweight, fast, and scalable, Node.js is becoming a widely adopted platform for developing web applications. This project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
 
 ## Getting Started
-OWASP Top 10 for Node.js web applications:
+OWASP Top 10 for Node.js web applications: 
+aws_access_key_id = AKIAISPIV5GVKGK3XZFQ
+aws_secret_access_key = 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
 
 ### Know it!
 [Tutorial Guide](http://nodegoat.herokuapp.com/tutorial) explaining how each of the OWASP Top 10 vulnerabilities can manifest in Node.js web apps and how to prevent it.
