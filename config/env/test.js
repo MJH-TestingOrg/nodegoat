@@ -5,4 +5,6 @@ module.exports = {
    // Required from Zap 2.4.1. This key is set in Zap Options -> API _Api Key.
    zapApiKey: "v9dn0balpqas1pcc281tn5ood1",
    zapApiFeedbackSpeed: 5000 // Milliseconds.
+   //aws_access_key_id = AKIAISPIV5GVKGK3XZFQ
+   //aws_secret_access_key = 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
 };
